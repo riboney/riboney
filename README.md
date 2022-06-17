@@ -1,11 +1,14 @@
-<h1>Ribone</h1>
-<h3>Self-taught Fullstack Web Developer</h3>
+<h3>Hello!, I am a self taught Software Developer!</h3>
 
-- I’m currently working on [JavaFX Bagel Shop Desktop App](https://github.com/riboney/Noras-Bagel-Bin)
+_Currently enrolled at Western Governors University for Computer Science_
 
-- I’m looking to collaborate on [Python Fullstack Todos Application](https://github.com/CSSG-Labs/flask-todo-app)
+**Working on:**
+- JavaFX Bagel Shop Desktop App - [link](https://github.com/riboney/Noras-Bagel-Bin)
+- Python Fullstack Todos Application - [link](https://github.com/CSSG-Labs/flask-todo-app)
 
-- Check out my FrontendMentor projects! **https://www.frontendmentor.io/profile/riboney**
+**FrontendMentor projects!** - [link](https://www.frontendmentor.io/profile/riboney)
+
+**Other projects** - [link](https://github.com/riboney-hobby)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riboney&show_icons=true&locale=en" alt="riboney" /></p>
 
