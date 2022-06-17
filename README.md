@@ -1,5 +1,5 @@
-<h1 align="center">Riboney</h1>
-<h3 align="center">A self-taught fullstack web developer from the US</h3>
+<h1>Ribone</h1>
+<h3>Self-taught Fullstack Web Developer</h3>
 
 - I’m currently working on [JavaFX Bagel Shop Desktop App](https://github.com/riboney/Noras-Bagel-Bin)
 
