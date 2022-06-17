@@ -1,4 +1,4 @@
-## Hello!, I am a self taught Software Developer!
+## Hello! Welcome to my github!
 
 _Currently enrolled at Western Governors University for Computer Science_
 
