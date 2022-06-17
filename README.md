@@ -2,8 +2,6 @@
 
 _Currently enrolled at Western Governors University for Computer Science_
 
-### Projects
-
 **Bagel Shop Management Application**
 - Desktop app where user can manage products and orders
 - Built with _Java, JavaFX, Maven, and SQLite_ 
