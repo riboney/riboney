@@ -1,6 +1,6 @@
 ## Hello! Welcome to my github!
 
-_Currently enrolled at Western Governors University for Computer Science_
+_Currently a CS student attending Western Governors University_
 
 **FrontendMentor projects** - [link](https://www.frontendmentor.io/profile/riboney)
 
